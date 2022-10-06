@@ -1,0 +1,217 @@
+
+.oiiii{
+    background-color: #89B996;
+    width: 20%;
+    height: 45%;
+    position: absolute;
+    left: 15%;
+}
+
+.container2{
+    background-color: #3F714D;
+    width: 20%;
+    height: 45%;
+    position: absolute;
+    left: 65%;}
+
+
+.container3{
+    background-color: #4A885B;
+    width: 30%;
+    height: 60%;
+    position: absolute;
+    left: 35%;
+}
+
+.objetivos{
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    font-size: 260%;
+    top: 200%;
+    left: 42%;
+    text-align: center;
+}
+
+.linha{
+    position: absolute;
+    width: 60%;
+    height: 0.5%;
+    left: 20%;
+    top: 215%;
+    background-color: #000000;
+}
+
+.caixatexto1{
+    color: #000000;
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    left: 8%;
+    top: 250%;
+}
+
+.caixatexto2{
+    color: #000000;
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    left: 8%;
+    top: 280%;
+}
+
+.img-meio{
+    position: absolute;
+    height: 90%;
+    width: 35%;
+    left: 33%;
+    top: 250%;
+}
+
+.caixatexto3{
+    color: #000000;
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    right: 8%;
+    top: 290%;
+}
+
+.caixatexto4{
+    color: #000000;
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    right: 8%;
+    top: 250%;
+}
+
+.linha2{
+    position: absolute;
+    width: 60%;
+    height: 0.5%;
+    left: 20%;
+    top: 360%;
+    background-color: #000000;
+}
+
+.comprido{
+    background-color: #74aa82;
+    width: 80%;
+    height: 45%;
+    position: absolute;
+    left: 12%;
+    top: 380%;
+}
+
+.texto1{
+    color: #000000;
+    width: 15%;
+    height: 15%;
+    position: absolute;
+    left: 17%;
+    top: 390%;
+}
+
+.texto2{
+    color: #000000;
+    width: 15%;
+    height: 15%;
+    position: absolute;
+    left: 40%;
+    top: 391%;
+}
+
+.texto3{
+    color: #000000;
+    width: 20%;
+    height: 15%;
+    position: absolute;
+    left: 64%;
+    top: 389%;
+}
+
+.quadrado1{
+    background-color: #89B996;
+    color: #000;
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    left: 15%;
+    top: 445%;
+}
+
+
+.quadrado2{
+    background-color: #89B996;
+    color: #000;
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    left: 40%;
+    top: 445%;
+}
+.quadrado3{
+    background-color: #89B996;
+    color: #000;
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    left: 65%;
+    top: 445%;
+}
+
+.linha3{
+    position: absolute;
+    width: 80%;
+    height: 0.5%;
+    left: 12%;
+    top: 510%;
+    background-color: #000000;
+}
+
+.baixo1{
+    background-color: #89B996;
+    width: 20%;
+    height: 45%;
+    position: absolute;
+    left: 15%;
+    top: 510.5%;
+}
+
+.baixo2{
+    background-color: #3F714D;
+    width: 20%;
+    height: 45%;
+    position: absolute;
+    left: 65%;
+    top: 510.5%;
+}
+
+
+.baixo3{
+    background-color: #4A885B;
+    width: 30%;
+    height: 50%;
+    position: absolute;
+    left: 35%;
+    top: 510.5%;
+}
+
+.linha4{
+    position: absolute;
+    width: 80%;
+    height: 0.5%;
+    left: 12%;
+    top: 580%;
+    background-color: #000000;
+}
+
+
+
+/*
+font-family: "Times New Roman", Times, serif;
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions o
+
+*/
